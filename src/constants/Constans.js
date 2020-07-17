@@ -1,1 +1,1 @@
-export const CLIENT_OBJECT_ID = 'client';
+export const API_KEY = 'FbHR95pFL4JIpQ4UM90ZMfIPJQjgB9cQ';
